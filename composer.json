@@ -1,0 +1,13 @@
+{
+    "name": "liquidgear",
+    "description": "3.*",
+    "require": {
+        "stripe/stripe-php": "3.*"
+    },
+    "authors": [
+        {
+            "name": "Lucie Genevey",
+            "email": "l.genevey@gmail.com"
+        }
+    ]
+}
