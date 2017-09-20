@@ -2,7 +2,7 @@
 require_once('../vendor/autoload.php');
 // Set your secret key: remember to change this to your live secret key in production
 // See your keys here https://dashboard.stripe.com/account/apikeys
-\Stripe\Stripe::setApiKey("sk_live_BvAyfdbGyL8cHZd9E4LMur0M");
+\Stripe\Stripe::setApiKey("sk_live_");
 
 
 if (isset($_POST['stripeToken'])) {
