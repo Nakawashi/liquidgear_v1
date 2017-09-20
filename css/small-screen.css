@@ -1,0 +1,63 @@
+/* media queries */
+
+@media screen and (max-width: 1000px) {
+
+    .header-pic {
+        display: none;
+    }
+    
+    .header-text {
+        padding-top: 100px
+    }
+    
+    .modal-size {
+        height: auto;
+        width: 500px;
+    }
+	
+	.promotional-rotatediv {
+		display: none;
+	}
+	.promotional-rotateimg {
+		display: none;
+		-ms-transform: rotate(0deg); /* IE 9 */
+		-webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+		transform: rotate(0deg);
+	
+    } 
+}
+
+@media screen and (max-width: 768px) {
+    /* affichage menu déroulant petit écran .collapse*/
+    .navbar-collapse {
+        background-color: #FFFFFF;
+    }
+    
+    nav {
+        height: 105px;
+    }
+    
+    .logo-container {
+        height: 100px;
+        width: 100px;
+        background-color: #FFFFFF;
+        border-radius: 50%;
+    }
+
+    .logo {
+        height: auto;
+        width: 70px;
+        margin-left: 0;
+    }
+    
+    .modal-size {
+        height: auto;
+        width: 300px;
+    }
+
+}
+
+/* Portrait phones and smaller */
+@media (max-width: 480px) {
+    
+}
