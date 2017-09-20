@@ -1,4 +1,10 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
+# LiquidGear's website
+
+Première version du site e-commerce de l'entreprise Liquid Gear. Mon premier vrai projet, soyez indulgents :)
+
+Il existe une version anglaise et allemande du site, mais j'ai volontairement choisi de publier uniquement la partie française car le reste n'est que techniquement un doublon.
+
+## THEME UTILISE : [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
 
 [Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
