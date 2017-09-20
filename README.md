@@ -1,8 +1,10 @@
 # LiquidGear's website
 
-Première version du site e-commerce de l'entreprise Liquid Gear. Mon premier vrai projet, soyez indulgents :)
+Première version du site e-commerce de l'entreprise Liquid Gear. Mon premier projet.
 
 Il existe une version anglaise et allemande du site, mais j'ai volontairement choisi de publier uniquement la partie française car le reste n'est que techniquement un doublon.
+
+Bonne visite :D
 
 ## THEME UTILISE : [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
 
